@@ -2,10 +2,10 @@
   <img src="images/README/logo.png" style="width:300px;" />
 </p>
 
-grofer
+goAgent
 ======
 
-[![Go Checks](https://github.com/goyeh/goAgent/actions/workflows/go-checks.yml/badge.svg)](https://github.com/goyeh/goAgent/actions/workflows/go-checks.yml) [![License Check](https://github.com/goyeh/goAgent/actions/workflows/license-check.yml/badge.svg)](https://github.com/goyeh/goAgent/actions/workflows/license-check.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/goyeh/goAgent)](https://goreportcard.com/report/github.com/goyeh/goAgent) [![Go Reference](https://pkg.go.dev/badge/github.com/goyeh/grofer.svg)](https://pkg.go.dev/github.com/goyeh/goAgent) [![Publish Development Docker Image](https://github.com/goyeh/goAgent/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/goyeh/goAgent/actions/workflows/docker-publish.yml) [![Publish Stable Docker Image](https://github.com/goyeh/goAgent/actions/workflows/docker-publish-stable.yml/badge.svg)](https://github.com/goyeh/goAgent/actions/workflows/docker-publish-stable.yml)
+[![Go Checks](https://github.com/goyeh/goAgent/actions/workflows/go-checks.yml/badge.svg)](https://github.com/goyeh/goAgent/actions/workflows/go-checks.yml) [![License Check](https://github.com/goyeh/goAgent/actions/workflows/license-check.yml/badge.svg)](https://github.com/goyeh/goAgent/actions/workflows/license-check.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/goyeh/goAgent)](https://goreportcard.com/report/github.com/goyeh/goAgent) [![Go Reference](https://pkg.go.dev/badge/github.com/goyeh/grofer.svg)](https://pkg.go.dev/github.com/goyeh/goAgent)
 
 ### Latest Stable Version: ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/pesos/grofer?label=latest%20version&sort=semver)
 
